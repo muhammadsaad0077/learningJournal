@@ -24,6 +24,14 @@
                 "MongoDB Indexing basics",
                 "API Error Handling patterns"
               ]
+            },
+            {
+              "id": 3,
+              "period": "7-10 Feb",
+              "topics": [
+                "CyberSecurity Basics",
+                "Probability for computer science"
+              ]
             }
           ]
         }
