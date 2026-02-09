@@ -1,0 +1,7 @@
+body{
+  overflow-x: hidden;
+}
+
+.moveLeft{
+  margin-left: 50px;
+}
