@@ -5,7 +5,7 @@ const MonthAccordion = ({ month, children }) => {
   const [open, setOpen] = useState(false);
 
   return (
-    <div className="mb-4">
+    <div className="moveBottom">
 
       <motion.button
         whileTap={{ scale: 0.97 }}

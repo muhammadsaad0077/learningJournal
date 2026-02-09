@@ -5,3 +5,7 @@ body{
 .moveLeft{
   margin-left: 50px;
 }
+
+.moveBottom{
+      margin-bottom: 35px;
+}

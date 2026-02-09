@@ -3,10 +3,7 @@ import { motion } from "framer-motion";
 const SemesterCard = ({ semester, children }) => {
   return (
     <motion.div
-      initial={{ opacity: 0, y: 40 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.5 }}
-      whileHover={{ scale: 1.02 }}
+      
       className="
         bg-white/80
         backdrop-blur-lg

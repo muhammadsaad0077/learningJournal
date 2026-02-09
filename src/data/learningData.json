@@ -2,39 +2,46 @@
   "semesters": [
     {
       "id": 1,
-      "name": "Semester 2",
+      "name": "Semester 4",
       "months": [
         {
           "id": 1,
-          "name": "February",
+          "name": "January",   
           "entries": [
             {
               "id": 1,
-              "period": "1-3 Feb",
+              "period": "18-31 Jan",
               "topics": [
-                "Learned React useEffect deeply",
-                "Tailwind responsive layouts",
-                "JWT Authentication in Express"
+                "Learned networking basics concepts",
+                "HTTP, HTTPS, TCP, OSI, VPN Firewall, IP Address, ...more",
+                "Continued CS50 - Intro to Cybersecurity"
               ]
-            },
+            }
+          ]
+        },
+        {
+            "id": 2,
+            "name": "February",
+            "entries": [
             {
               "id": 2,
-              "period": "4-6 Feb",
+              "period": "1-6 Feb",
               "topics": [
-                "MongoDB Indexing basics",
-                "API Error Handling patterns"
+                "Completed Basic networking concepts",
+                "Completed CS50"
               ]
             },
             {
               "id": 3,
-              "period": "7-10 Feb",
+              "period": "7-18 Feb",
               "topics": [
-                "CyberSecurity Basics",
-                "Probability for computer science"
+                "Linux Fundamentals",
+                "Windows Fundamentals"
               ]
             }
           ]
         }
+        
       ]
     }
   ]
