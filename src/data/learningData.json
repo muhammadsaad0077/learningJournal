@@ -1,0 +1,69 @@
+{
+  "semesters": [
+    {
+      "id": 1,
+      "name": "Semester 1",  
+       "entries": [
+            {
+              "id": 1,
+              
+              "topics": [
+                "Learned Basic PHP and Laravel",
+                "Focus on problem solving"
+                
+              ]
+            }
+          ]
+     },
+     {
+      "id": 2,
+      "name": "Semester 2",  
+       "entries": [
+            {
+              "id": 1,
+              
+              "topics": [
+                "Learned Object Oriented Programming",
+                "Learned Backend Concepts",
+                "Express JS, Mongo DB",
+                "Participated in Nascon web compitition"
+              ]
+            }
+          ]
+     },
+     {
+      "id": 3,
+      "name": "Semester 3",  
+       "entries": [
+            {
+              "id": 1,
+              
+              "topics": [
+                "Focus on Data Structures",
+                "Problem Solving",
+                "Solved problems on leetcode"
+              ]
+            }
+          ]
+     },
+    {
+      "id": 4,
+      "name": "Semester 4",  
+       "entries": [
+            {
+              "id": 1,
+              
+              "topics": [
+                "Completed Basic networking concepts",
+                "HTTP, HTTPS, TCP, OSI, VPN Firewall, IP Address, ...more",
+                "Completed CS50 - Intro to CyberSecurity",
+                "Completed Pre Security Path Certificate TryHackme"
+              ]
+            }
+          ]
+     }
+     
+        
+      ]
+    }
+  
