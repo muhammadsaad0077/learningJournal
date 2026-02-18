@@ -2,47 +2,68 @@
   "semesters": [
     {
       "id": 1,
-      "name": "Semester 4",
-      "months": [
-        {
-          "id": 1,
-          "name": "January",   
-          "entries": [
+      "name": "Semester 1",  
+       "entries": [
             {
               "id": 1,
-              "period": "18-31 Jan",
+              
               "topics": [
-                "Learned networking basics concepts",
-                "HTTP, HTTPS, TCP, OSI, VPN Firewall, IP Address, ...more",
-                "Continued CS50 - Intro to Cybersecurity"
+                "Learned Basic PHP and Laravel",
+                "Focus on problem solving"
+                
               ]
             }
           ]
-        },
-        {
-            "id": 2,
-            "name": "February",
-            "entries": [
+     },
+     {
+      "id": 2,
+      "name": "Semester 2",  
+       "entries": [
             {
-              "id": 2,
-              "period": "1-6 Feb",
+              "id": 1,
+              
+              "topics": [
+                "Learned Object Oriented Programming",
+                "Learned Backend Concepts",
+                "Express JS, Mongo DB",
+                "Participated in Nascon web compitition"
+              ]
+            }
+          ]
+     },
+     {
+      "id": 3,
+      "name": "Semester 3",  
+       "entries": [
+            {
+              "id": 1,
+              
+              "topics": [
+                "Focus on Data Structures",
+                "Problem Solving",
+                "Solved problems on leetcode"
+              ]
+            }
+          ]
+     },
+    {
+      "id": 4,
+      "name": "Semester 4",  
+       "entries": [
+            {
+              "id": 1,
+              
               "topics": [
                 "Completed Basic networking concepts",
-                "Completed CS50"
-              ]
-            },
-            {
-              "id": 3,
-              "period": "7-18 Feb",
-              "topics": [
-                "Linux Fundamentals",
-                "Windows Fundamentals"
+                "HTTP, HTTPS, TCP, OSI, VPN Firewall, IP Address, ...more",
+                "Completed CS50 - Intro to CyberSecurity",
+                "Completed Pre Security Path Certificate TryHackme"
               ]
             }
           ]
-        }
+     }
+     
         
       ]
     }
-  ]
-}
+  
